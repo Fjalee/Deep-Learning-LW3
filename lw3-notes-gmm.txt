@@ -1,0 +1,13 @@
+paieska kontekstui
+
+naturalios kalbos modelis 
+    gristas transformeriu neuroniniais tinklais naudoti kaip pozymiu generatoriu
+
+
+10000 text records
+
+
+
+177
+T = 177%6 + 1 = 4
+Tapas arba Electra
